@@ -11,7 +11,7 @@ describe('Accessing the letters of a String', function () {
   it('gives back a string data type', function () {
     expect(printLetter1()).to.be.a('string');
   });
-
+console.log('This is working!');
   it('prints the 4 letter in a string', function () {
     expect(printLetter1()).to.equal('n');
   });
