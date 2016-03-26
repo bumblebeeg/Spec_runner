@@ -12,7 +12,7 @@ Feel free to use any string methods you wish.
 // Gives back ("returns") the fourth letter in a string
 var printLetter1 = function () { 
   console.log('yeah');
-  return 'print the fourth letter in this string';
+  return 'print the fourth letter in this string' [3];
 
 };
 /*
